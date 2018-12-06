@@ -1,14 +1,19 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+  margin-top: 5vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+hr {
+  margin-bottom: 5vh;
+}
+
+input {
+  margin-right: 60px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.card {
+  padding: 1.5rem !important;
 }
